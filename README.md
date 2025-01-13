@@ -13,6 +13,12 @@ Este é um aplicativo web desenvolvido com **Streamlit** para análise de dados 
   - **Gráficos de dispersão**: Exibe a relação entre duas variáveis numéricas.
 - Caixa de seleção ou botões para permitir a criação de diferentes tipos de gráficos, conforme a escolha do usuário.
 
+## Aplicativo Hospedado
+
+Você pode acessar o aplicativo clicando no link abaixo:
+
+[Acesse o aplicativo no Render](https://project-sprint5-7d9p.onrender.com)
+
 ## Como Usar
 
 ### 1. Clonar o Repositório
